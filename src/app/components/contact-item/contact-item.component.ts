@@ -7,5 +7,4 @@ import { Component } from '@angular/core';
   styleUrl: './contact-item.component.scss'
 })
 export class ContactItemComponent {
-
 }
